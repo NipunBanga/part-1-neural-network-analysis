@@ -1,0 +1,4 @@
+Experiment,Hidden Layers,Neurons,Activation,Epochs,Batch Size,Accuracy
+Exp1,1,32,relu,50,32,84%
+Exp2,2,64,relu,100,32,88%
+Exp3,2,"64,32",tanh,100,16,90%
